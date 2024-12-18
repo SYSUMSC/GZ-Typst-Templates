@@ -1,8 +1,8 @@
-# GZ Typst Templates
+# GZ Typst Templates (Forked)
 
-For my personal usage.
+This repository is a fork of the original [GZ Typst Templates](https://github.com/original-repo) tailored for **SYSUMSC**. It provides Typst templates for writing assignments and lab reports, optimized for new standards.
 
-个人使用的 Typst 模板，用于写作业和实验报告。
+Typst 模板，由 **SYSUMSC** 维护，用于撰写作业和实验报告。
 
 ## Fonts
 
